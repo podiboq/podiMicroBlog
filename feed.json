@@ -7,18 +7,27 @@
 	"items": [
 		
 			{
-				"id": "http://podiboq.micro.blog/2022/02/20/work-in-progress.html",
+				"id": "http://podiboq.micro.blog/2022/02/24/shit-apparently-ukrainian.html",
 				
-				"content_html": "<p>Work in progress 🥰</p>\n\n<p><img src=\"uploads/2022/63be996df0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Work in progress 🥰\n\n<img src=\"uploads/2022/63be996df0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2022-02-20T19:24:15+01:00",
-				"url": "https://podiboq.micro.blog/2022/02/20/work-in-progress.html"
+				"content_html": "<p>Shit!!! Apparently, Ukrainian control over the Chernobyl site was lost 😳😳😳. I have to stop watching the news&hellip;</p>\n\n<p><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Ugh. Awful development. &quot;After a fierce battle, Ukrainian control over the Chernobyl site was lost. The condition of the former Chernobyl nuclear power plant, confinement, and nuclear waste storage facilities is unknown,&quot; said Mykhailo Podoliak, adviser to head of Chernobyl plant</p>&mdash; Christopher Miller (@ChristopherJM) <a href=\"https://twitter.com/ChristopherJM/status/1496900307288272899?ref_src=twsrc%5Etfw\">February 24, 2022</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n",
+				"content_text": "Shit!!! Apparently, Ukrainian control over the Chernobyl site was lost 😳😳😳. I have to stop watching the news...\r\n\r\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Ugh. Awful development. &quot;After a fierce battle, Ukrainian control over the Chernobyl site was lost. The condition of the former Chernobyl nuclear power plant, confinement, and nuclear waste storage facilities is unknown,&quot; said Mykhailo Podoliak, adviser to head of Chernobyl plant</p>&mdash; Christopher Miller (@ChristopherJM) <a href=\"https://twitter.com/ChristopherJM/status/1496900307288272899?ref_src=twsrc%5Etfw\">February 24, 2022</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n",
+				"date_published": "2022-02-24T18:36:11+01:00",
+				"url": "https://podiboq.micro.blog/2022/02/24/shit-apparently-ukrainian.html"
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/02/22/its-weird-i.html",
+				
+				"content_html": "<p>🦠 It&rsquo;s weird I haven&rsquo;t got Covid yet&hellip; Or maybe I&rsquo;ve had it and I just didn&rsquo;t have any symptoms. I don&rsquo;t complain, I&rsquo;m really happy about it and I hope I&rsquo;ll stay this way 😄</p>\n",
+				"content_text": "🦠 It's weird I haven't got Covid yet... Or maybe I've had it and I just didn't have any symptoms. I don't complain, I'm really happy about it and I hope I'll stay this way 😄\n",
+				"date_published": "2022-02-22T21:45:24+01:00",
+				"url": "https://podiboq.micro.blog/2022/02/22/its-weird-i.html",
+				"tags": ["Thoughts"]
 			},
 			{
 				"id": "http://podiboq.micro.blog/2022/01/25/tonights-walk.html",
 				
-				"content_html": "<p>📷 Tonight&rsquo;s walk</p>\n\n<p><img src=\"uploads/2022/4365f558d2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📷 Tonight's walk\n\n<img src=\"uploads/2022/4365f558d2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>📷 Tonight&rsquo;s walk</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/4365f558d2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 Tonight's walk\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/4365f558d2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-25T19:21:07+01:00",
 				"url": "https://podiboq.micro.blog/2022/01/25/tonights-walk.html",
 				"tags": ["Photos"]
@@ -26,8 +35,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/01/25/is-it-just.html",
 				
-				"content_html": "<p>Is it just me or micro.blog is suuuuuuuper super slow to load? 😳 A page with one 599k image <strong>loaded in 22s</strong>, that&rsquo;s a lot.</p>\n\n<p><a href=\"https://podiboq.micro.blog/uploads/2022/54efd375ac.png\"><img src=\"uploads/2022/54efd375ac.png\" width=\"600\" height=\"304\" alt=\"\" /></a></p>\n\n<p>And I don&rsquo;t think my internet connection is the issue here 😢</p>\n\n<p><img src=\"uploads/2022/30740e2853.png\" width=\"600\" height=\"310\" alt=\"\" /></p>\n\n<p>cc <a href=\"https://micro.blog/help\">@help</a> / <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
-				"content_text": "Is it just me or micro.blog is suuuuuuuper super slow to load? 😳 A page with one 599k image **loaded in 22s**, that's a lot. \r\n\r\n<a href=\"https://podiboq.micro.blog/uploads/2022/54efd375ac.png\"><img src=\"uploads/2022/54efd375ac.png\" width=\"600\" height=\"304\" alt=\"\" /></a>\r\n\r\nAnd I don't think my internet connection is the issue here 😢\r\n\r\n<img src=\"uploads/2022/30740e2853.png\" width=\"600\" height=\"310\" alt=\"\" />\r\n\r\ncc [@help](https://micro.blog/help) / [@manton](https://micro.blog/manton)\n",
+				"content_html": "<p>Is it just me or micro.blog is suuuuuuuper super slow to load? 😳 A page with one 599k image <strong>loaded in 22s</strong>, that&rsquo;s a lot.</p>\n\n<p><a href=\"https://podiboq.micro.blog/uploads/2022/54efd375ac.png\"><img src=\"https://podiboq.micro.blog/uploads/2022/54efd375ac.png\" width=\"600\" height=\"304\" alt=\"\" /></a></p>\n\n<p>And I don&rsquo;t think my internet connection is the issue here 😢</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/30740e2853.png\" width=\"600\" height=\"310\" alt=\"\" /></p>\n\n<p>cc <a href=\"https://micro.blog/help\">@help</a> / <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
+				"content_text": "Is it just me or micro.blog is suuuuuuuper super slow to load? 😳 A page with one 599k image **loaded in 22s**, that's a lot. \r\n\r\n<a href=\"https://podiboq.micro.blog/uploads/2022/54efd375ac.png\"><img src=\"https://podiboq.micro.blog/uploads/2022/54efd375ac.png\" width=\"600\" height=\"304\" alt=\"\" /></a>\r\n\r\nAnd I don't think my internet connection is the issue here 😢\r\n\r\n<img src=\"https://podiboq.micro.blog/uploads/2022/30740e2853.png\" width=\"600\" height=\"310\" alt=\"\" />\r\n\r\ncc [@help](https://micro.blog/help) / [@manton](https://micro.blog/manton)\n",
 				"date_published": "2022-01-25T18:27:49+01:00",
 				"url": "https://podiboq.micro.blog/2022/01/25/is-it-just.html",
 				"tags": ["Bla bla bla"]
