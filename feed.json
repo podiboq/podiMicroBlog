@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://podiboq.micro.blog/2022/07/04/i-hate-people.html",
+				
+				"content_html": "<p>I hate people that think they&rsquo;re some diabetes experts after reading 3 articles online. An acquaintance just told me that T2 is reversible. I won&rsquo;t have this discussion with him. I need to stay calm&hellip; 🤦‍♂️</p>\n",
+				"content_text": "I hate people that think they're some diabetes experts after reading 3 articles online. An acquaintance just told me that T2 is reversible. I won't have this discussion with him. I need to stay calm... 🤦‍♂️\n",
+				"date_published": "2022-07-04T17:33:57+02:00",
+				"url": "https://podiboq.micro.blog/2022/07/04/i-hate-people.html"
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/07/01/elsa-sven.html",
+				
+				"content_html": "<p>📷 Elsa &amp; Sven 🙈</p>\n\n<p><img src=\"uploads/2022/9add327649.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 Elsa & Sven 🙈\n\n<img src=\"uploads/2022/9add327649.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-01T11:22:55+02:00",
+				"url": "https://podiboq.micro.blog/2022/07/01/elsa-sven.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/06/29/my-little-penguin.html",
+				
+				"content_html": "<p>My little penguin is sick again. This time she has a nasty mouth infection - she coughs, her throat surely hurts like hell and she has some fever. We&rsquo;ve seen the doctor today and I&rsquo;ll be staying home with her until the end of the week. I hate when she&rsquo;s sick&hellip; 😔</p>\n",
+				"content_text": "My little penguin is sick again. This time she has a nasty mouth infection - she coughs, her throat surely hurts like hell and she has some fever. We've seen the doctor today and I'll be staying home with her until the end of the week. I hate when she's sick... 😔\n",
+				"date_published": "2022-06-29T19:00:51+02:00",
+				"url": "https://podiboq.micro.blog/2022/06/29/my-little-penguin.html"
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/06/26/finally-managed-to.html",
+				
+				"content_html": "<p>Finally managed to find a place for our summer holiday. It&rsquo;s not what we wished for, but at least we&rsquo;ll be next to a lake and we&rsquo;ll have a few nice attractions around the house. The important thing is to have a great time ☀️🕶⛱</p>\n",
+				"content_text": "Finally managed to find a place for our summer holiday. It's not what we wished for, but at least we'll be next to a lake and we'll have a few nice attractions around the house. The important thing is to have a great time ☀️🕶⛱\n",
+				"date_published": "2022-06-26T21:05:26+02:00",
+				"url": "https://podiboq.micro.blog/2022/06/26/finally-managed-to.html",
+				"tags": ["Personal"]
+			},
+			{
 				"id": "http://podiboq.micro.blog/2022/06/26/i-started-reading.html",
 				
 				"content_html": "<p>📖 I started reading <strong>Tenkuu Shinpan</strong> (High-Rise Invasion). I&rsquo;ve already finished the first 2 volumes and I really love it. I want to first read the manga and then watch the anime (Netflix).</p>\n\n<p><img src=\"uploads/2022/29d0bbcb38.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2022/f1549f998a.png\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
@@ -35,16 +69,16 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/06/23/its-hot-so.html",
 				
-				"content_html": "<p>☀️ It&rsquo;s hot, so hot, but the good news is: RAIN IS COMING 🎉</p>\n\n<p><img src=\"uploads/2022/5229519197.png\" width=\"600\" height=\"575\" alt=\"\" /></p>\n",
-				"content_text": "☀️ It's hot, so hot, but the good news is: RAIN IS COMING 🎉\n\n<img src=\"uploads/2022/5229519197.png\" width=\"600\" height=\"575\" alt=\"\" />\n",
+				"content_html": "<p>☀️ It&rsquo;s hot, so hot, but the good news is: RAIN IS COMING 🎉</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/5229519197.png\" width=\"600\" height=\"575\" alt=\"\" /></p>\n",
+				"content_text": "☀️ It's hot, so hot, but the good news is: RAIN IS COMING 🎉\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/5229519197.png\" width=\"600\" height=\"575\" alt=\"\" />\n",
 				"date_published": "2022-06-23T18:36:14+02:00",
 				"url": "https://podiboq.micro.blog/2022/06/23/its-hot-so.html"
 			},
 			{
 				"id": "http://podiboq.micro.blog/2022/06/22/yesterdays-sky.html",
 				
-				"content_html": "<p>📷 Yesterday&rsquo;s sky</p>\n\n<p><img src=\"uploads/2022/7d1705ca55.jpg\" width=\"600\" height=\"453\" alt=\"\" /></p>\n",
-				"content_text": "📷 Yesterday's sky\n\n<img src=\"uploads/2022/7d1705ca55.jpg\" width=\"600\" height=\"453\" alt=\"\" />\n",
+				"content_html": "<p>📷 Yesterday&rsquo;s sky</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/7d1705ca55.jpg\" width=\"600\" height=\"453\" alt=\"\" /></p>\n",
+				"content_text": "📷 Yesterday's sky\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/7d1705ca55.jpg\" width=\"600\" height=\"453\" alt=\"\" />\n",
 				"date_published": "2022-06-22T09:12:26+02:00",
 				"url": "https://podiboq.micro.blog/2022/06/22/yesterdays-sky.html",
 				"tags": ["Photos"]
@@ -127,8 +161,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/06/11/pte-modeler.html",
 				"title": "📷 Pâte à modeler 🤷‍♂️",
-				"content_html": "<p><img src=\"uploads/2022/7747396072.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "<img src=\"uploads/2022/7747396072.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://podiboq.micro.blog/uploads/2022/7747396072.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "<img src=\"https://podiboq.micro.blog/uploads/2022/7747396072.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-11T18:32:16+02:00",
 				"url": "https://podiboq.micro.blog/2022/06/11/pte-modeler.html",
 				"tags": ["Photos"]
