@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://podiboq.micro.blog/2022/07/11/yes-arrived-to.html",
+				
+				"content_html": "<p>Yes. Arrived to our holiday home for the next 10 days 🤘</p>\n\n<p><img src=\"uploads/2022/efea615613.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yes. Arrived to our holiday home for the next 10 days 🤘\n\n<img src=\"uploads/2022/efea615613.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-11T19:19:58+02:00",
+				"url": "https://podiboq.micro.blog/2022/07/11/yes-arrived-to.html"
+			},
+			{
 				"id": "http://podiboq.micro.blog/2022/07/04/i-hate-people.html",
 				
-				"content_html": "<p>I hate people that think they&rsquo;re some diabetes experts after reading 3 articles online. An acquaintance just told me that T2 is reversible. I won&rsquo;t have this discussion with him. I need to stay calm&hellip; 🤦‍♂️</p>\n",
-				"content_text": "I hate people that think they're some diabetes experts after reading 3 articles online. An acquaintance just told me that T2 is reversible. I won't have this discussion with him. I need to stay calm... 🤦‍♂️\n",
+				"content_html": "<p>I hate people that think they&rsquo;re some diabetes experts after reading 3 articles online. An acquaintance just told me that T2 is reversible. I won&rsquo;t have this discussion with him. I need to stay calm&hellip; 🤦‍♂️ 😡</p>\n",
+				"content_text": "I hate people that think they're some diabetes experts after reading 3 articles online. An acquaintance just told me that T2 is reversible. I won't have this discussion with him. I need to stay calm... 🤦‍♂️ 😡\n",
 				"date_published": "2022-07-04T17:33:57+02:00",
 				"url": "https://podiboq.micro.blog/2022/07/04/i-hate-people.html"
 			},
@@ -43,8 +51,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/06/26/i-started-reading.html",
 				
-				"content_html": "<p>📖 I started reading <strong>Tenkuu Shinpan</strong> (High-Rise Invasion). I&rsquo;ve already finished the first 2 volumes and I really love it. I want to first read the manga and then watch the anime (Netflix).</p>\n\n<p><img src=\"uploads/2022/29d0bbcb38.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2022/f1549f998a.png\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
-				"content_text": "📖 I started reading **Tenkuu Shinpan** (High-Rise Invasion). I've already finished the first 2 volumes and I really love it. I want to first read the manga and then watch the anime (Netflix). \r\n\r\n<img src=\"uploads/2022/29d0bbcb38.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/f1549f998a.png\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"content_html": "<p>📖 I started reading <strong>Tenkuu Shinpan</strong> (High-Rise Invasion). I&rsquo;ve already finished the first 2 volumes and I really love it. I want to first read the manga and then watch the anime (Netflix).</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/29d0bbcb38.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/f1549f998a.png\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "📖 I started reading **Tenkuu Shinpan** (High-Rise Invasion). I've already finished the first 2 volumes and I really love it. I want to first read the manga and then watch the anime (Netflix). \r\n\r\n<img src=\"https://podiboq.micro.blog/uploads/2022/29d0bbcb38.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/f1549f998a.png\" width=\"600\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2022-06-26T09:02:50+02:00",
 				"url": "https://podiboq.micro.blog/2022/06/26/i-started-reading.html",
 				"tags": ["Reading"]
@@ -152,8 +160,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/06/12/still-using-and.html",
 				
-				"content_html": "<p>📷 Still using (and loving) my Christmas coffee cup 🥰 ☕️</p>\n\n<p><img src=\"uploads/2022/1cd148a525.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📷 Still using (and loving) my Christmas coffee cup 🥰 ☕️\n\n<img src=\"uploads/2022/1cd148a525.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>📷 Still using (and loving) my Christmas coffee cup 🥰 ☕️</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/1cd148a525.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 Still using (and loving) my Christmas coffee cup 🥰 ☕️\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/1cd148a525.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-12T09:12:50+02:00",
 				"url": "https://podiboq.micro.blog/2022/06/12/still-using-and.html",
 				"tags": ["Photos"]
