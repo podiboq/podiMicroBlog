@@ -7,10 +7,61 @@
 	"items": [
 		
 			{
+				"id": "http://podiboq.micro.blog/2022/08/12/my-parents-flight.html",
+				
+				"content_html": "<p>My parents flight got cancelled and rescheduled for today. Anyone knows if i can demand some compensations in this case? 🤷‍♂️</p>\n\n<p>I know it&rsquo;s a thing for the cancelled flights, but I do not know if it&rsquo;s also available when the flight date change.</p>\n",
+				"content_text": "My parents flight got cancelled and rescheduled for today. Anyone knows if i can demand some compensations in this case? 🤷‍♂️\n\nI know it's a thing for the cancelled flights, but I do not know if it's also available when the flight date change. \n",
+				"date_published": "2022-08-12T06:01:23+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/12/my-parents-flight.html"
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/08/10/lets-do-some.html",
+				
+				"content_html": "<p>Let&rsquo;s do some pomodoros 🍅</p>\n\n<p><img src=\"uploads/2022/d459c72681.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Let's do some pomodoros 🍅\n\n<img src=\"uploads/2022/d459c72681.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-10T11:41:36+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/10/lets-do-some.html"
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/08/08/makemydrivefuncom-is-a.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://makemydrivefun.com/\">makemydrivefun.com</a> is a great tool if you want to see interesting things on your next trip 🤘</p>\n",
+				"content_text": "🔗 [makemydrivefun.com](https://makemydrivefun.com/) is a great tool if you want to see interesting things on your next trip 🤘\n",
+				"date_published": "2022-08-08T21:30:41+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/08/makemydrivefuncom-is-a.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/08/07/ganduri-in-romana.html",
+				"title": "🇷🇴 Ganduri in romana",
+				"content_html": "<blockquote>\n<p>Sorry for those reading these lines and saying &ldquo;is this Chinese?&rdquo;. From now on I think I&rsquo;ll add some posts in Romanian to be able to add here different thoughts I&rsquo;m having No worries, most of the posts will be more &amp; less personal thoughts, so you won&rsquo;t miss a thing 😛. I&rsquo;ll try marking them with the flag in the title 🤷‍♂️</p>\n</blockquote>\n\n<p>Mi-am dat seama că unul din motivele pentru care nu public mereu așa de des aici este &ldquo;lenea&rdquo; de a scrie in engleza.</p>\n\n<p>Așa că încet-încet cred că voi publica și in română pentru a-mi putea pune gândurile &ldquo;pe foaie&rdquo; ceva mai rapid.</p>\n\n<p>O să vedem cu timpul dacă am dreptate sau nu 😁</p>\n",
+				"content_text": "> Sorry for those reading these lines and saying \"is this Chinese?\". From now on I think I'll add some posts in Romanian to be able to add here different thoughts I'm having No worries, most of the posts will be more & less personal thoughts, so you won't miss a thing 😛. I'll try marking them with the flag in the title 🤷‍♂️\n\nMi-am dat seama că unul din motivele pentru care nu public mereu așa de des aici este \"lenea\" de a scrie in engleza. \n\nAșa că încet-încet cred că voi publica și in română pentru a-mi putea pune gândurile \"pe foaie\" ceva mai rapid.\n\nO să vedem cu timpul dacă am dreptate sau nu 😁\n",
+				"date_published": "2022-08-07T21:00:00+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/07/ganduri-in-romana.html",
+				"tags": ["RO"]
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/08/06/do-you-recognize.html",
+				
+				"content_html": "<p>📷 Do you recognize him? 🤭</p>\n\n<p>This character has marked my youth. I love him and all his work 🤩</p>\n\n<p><img src=\"uploads/2022/22af65cb6f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 Do you recognize him? 🤭 \n\nThis character has marked my youth. I love him and all his work 🤩\n\n<img src=\"uploads/2022/22af65cb6f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-06T18:03:15+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/06/do-you-recognize.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/08/06/this-weekend-well.html",
+				
+				"content_html": "<p>This weekend we&rsquo;ll go visit some friends that live in the countryside. I really hope we&rsquo;ll have more air and way fewer degrees than here in the apartment. I&rsquo;m sick of these high temperatures 🥵😵‍💫</p>\n",
+				"content_text": "This weekend we'll go visit some friends that live in the countryside. I really hope we'll have more air and way fewer degrees than here in the apartment. I'm sick of these high temperatures 🥵😵‍💫\n",
+				"date_published": "2022-08-06T09:32:12+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/06/this-weekend-well.html"
+			},
+			{
 				"id": "http://podiboq.micro.blog/2022/08/04/105955.html",
 				
-				"content_html": "<p>📷 2022-08-04 🦄</p>\n\n<p><img src=\"uploads/2022/e028cfbd1d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📷 2022-08-04 🦄\n\n<img src=\"uploads/2022/e028cfbd1d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>📷 2022-08-04 🦄</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/e028cfbd1d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 2022-08-04 🦄\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/e028cfbd1d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-04T10:59:55+02:00",
 				"url": "https://podiboq.micro.blog/2022/08/04/105955.html",
 				"tags": ["Photos"]
@@ -27,8 +78,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/08/02/192942.html",
 				
-				"content_html": "<p>📷 2022-08-02 🚲</p>\n\n<p><img src=\"uploads/2022/294607fdcd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📷 2022-08-02 🚲\n\n<img src=\"uploads/2022/294607fdcd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>📷 2022-08-02 🚲</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/294607fdcd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 2022-08-02 🚲\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/294607fdcd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-02T19:29:42+02:00",
 				"url": "https://podiboq.micro.blog/2022/08/02/192942.html",
 				"tags": ["Photos"]
@@ -54,16 +105,16 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/07/31/lets-get-this.html",
 				
-				"content_html": "<p>Let&rsquo;s get this &ldquo;party&rdquo; started 🍺👷‍♂️🤘</p>\n\n<p><img src=\"uploads/2022/4a01d63238.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Let's get this \"party\" started 🍺👷‍♂️🤘\n\n<img src=\"uploads/2022/4a01d63238.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Let&rsquo;s get this &ldquo;party&rdquo; started 🍺👷‍♂️🤘</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/4a01d63238.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Let's get this \"party\" started 🍺👷‍♂️🤘\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/4a01d63238.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-31T10:04:46+02:00",
 				"url": "https://podiboq.micro.blog/2022/07/31/lets-get-this.html"
 			},
 			{
 				"id": "http://podiboq.micro.blog/2022/07/31/teuxdeux-simple-and.html",
 				"title": "☑️ TeuxDeux - simple and clean todo manager (with 50% off)",
-				"content_html": "<p>Yesterday I decided to stop searching for the perfect todo app and stick to the simplicity offered by <strong>TeuxDeux</strong>. So I got a 1-year subscription 🤟.</p>\n\n<p>It has :<br />\n- repeating tasks<br />\n- lists to add stuff you want to track or stuff you do not want to forget<br />\n- the tasks not done in a day are automatically added to the next day<br />\n- etc&hellip;</p>\n\n<p>Sure, it&rsquo;s missing some things when compared to other todo management apps, but for me <em>(at least for now)</em> that simplicity seems to help.</p>\n\n<p>If you also want to subscribe, the code <strong>YEAR22</strong> (not a referral) offers you 50% off 🥃.</p>\n\n<p><img src=\"uploads/2022/55a8d2e28d.png\" width=\"700\" alt=\"\" /></p>\n",
-				"content_text": "Yesterday I decided to stop searching for the perfect todo app and stick to the simplicity offered by **TeuxDeux**. So I got a 1-year subscription 🤟.\n\nIt has :   \n- repeating tasks  \n- lists to add stuff you want to track or stuff you do not want to forget  \n- the tasks not done in a day are automatically added to the next day  \n- etc...  \n\nSure, it's missing some things when compared to other todo management apps, but for me _(at least for now)_ that simplicity seems to help.\n\nIf you also want to subscribe, the code **YEAR22** (not a referral) offers you 50% off 🥃.\n\n<img src=\"uploads/2022/55a8d2e28d.png\" width=\"700\" alt=\"\" />\n",
+				"content_html": "<p>Yesterday I decided to stop searching for the perfect todo app and stick to the simplicity offered by <strong>TeuxDeux</strong>. So I got a 1-year subscription 🤟.</p>\n\n<p>It has :<br />\n- repeating tasks<br />\n- lists to add stuff you want to track or stuff you do not want to forget<br />\n- the tasks not done in a day are automatically added to the next day<br />\n- etc&hellip;</p>\n\n<p>Sure, it&rsquo;s missing some things when compared to other todo management apps, but for me <em>(at least for now)</em> that simplicity seems to help.</p>\n\n<p>If you also want to subscribe, the code <strong>YEAR22</strong> (not a referral) offers you 50% off 🥃.</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/55a8d2e28d.png\" width=\"700\" alt=\"\" /></p>\n",
+				"content_text": "Yesterday I decided to stop searching for the perfect todo app and stick to the simplicity offered by **TeuxDeux**. So I got a 1-year subscription 🤟.\n\nIt has :   \n- repeating tasks  \n- lists to add stuff you want to track or stuff you do not want to forget  \n- the tasks not done in a day are automatically added to the next day  \n- etc...  \n\nSure, it's missing some things when compared to other todo management apps, but for me _(at least for now)_ that simplicity seems to help.\n\nIf you also want to subscribe, the code **YEAR22** (not a referral) offers you 50% off 🥃.\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/55a8d2e28d.png\" width=\"700\" alt=\"\" />\n",
 				"date_published": "2022-07-31T09:28:26+02:00",
 				"url": "https://podiboq.micro.blog/2022/07/31/teuxdeux-simple-and.html",
 				"tags": ["Geek"]
