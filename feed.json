@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://podiboq.micro.blog/2022/08/22/my-parents-have.html",
+				
+				"content_html": "<p>My parents have been visiting for the last few days so I&rsquo;ve had zero time to check what&rsquo;s going on online. Now I have some free time, but my eyes are closing and all I want to do is SLEEP. So I&rsquo;ll go to bed 😴</p>\n",
+				"content_text": "My parents have been visiting for the last few days so I've had zero time to check what's going on online. Now I have some free time, but my eyes are closing and all I want to do is SLEEP. So I'll go to bed 😴\n",
+				"date_published": "2022-08-22T21:41:26+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/22/my-parents-have.html",
+				"tags": ["Bla bla bla"]
+			},
+			{
+				"id": "http://podiboq.micro.blog/2022/08/13/im-furious-i.html",
+				
+				"content_html": "<p>I&rsquo;m furious. I bought my car one year ago <em>(brand new, not used)</em> and now one of the back seat belts won&rsquo;t retract. 😠🤬🤯</p>\n",
+				"content_text": "I'm furious. I bought my car one year ago _(brand new, not used)_ and now one of the back seat belts won't retract. 😠🤬🤯\n",
+				"date_published": "2022-08-13T09:00:00+02:00",
+				"url": "https://podiboq.micro.blog/2022/08/13/im-furious-i.html",
+				"tags": ["Personal"]
+			},
+			{
 				"id": "http://podiboq.micro.blog/2022/08/12/my-parents-flight.html",
 				
-				"content_html": "<p>My parents flight got cancelled and rescheduled for today. Anyone knows if i can demand some compensations in this case? 🤷‍♂️</p>\n\n<p>I know it&rsquo;s a thing for the cancelled flights, but I do not know if it&rsquo;s also available when the flight date change.</p>\n",
-				"content_text": "My parents flight got cancelled and rescheduled for today. Anyone knows if i can demand some compensations in this case? 🤷‍♂️\n\nI know it's a thing for the cancelled flights, but I do not know if it's also available when the flight date change. \n",
+				"content_html": "<p>My parents&rsquo; flight got canceled yesterday and rescheduled for today. Anyone knows if i can demand some compensation in this case? 🤷‍♂️</p>\n\n<p>I know it&rsquo;s a thing for the canceled flights, but I do not know if it&rsquo;s also available when the flight date change.</p>\n",
+				"content_text": "My parents' flight got canceled yesterday and rescheduled for today. Anyone knows if i can demand some compensation in this case? 🤷‍♂️\n\nI know it's a thing for the canceled flights, but I do not know if it's also available when the flight date change. \n",
 				"date_published": "2022-08-12T06:01:23+02:00",
 				"url": "https://podiboq.micro.blog/2022/08/12/my-parents-flight.html"
 			},
@@ -87,8 +105,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/08/01/231912.html",
 				
-				"content_html": "<p>📷 2022-08-01 🌿</p>\n\n<p><img src=\"uploads/2022/52eb2d4a75.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "📷 2022-08-01 🌿\n\n<img src=\"uploads/2022/52eb2d4a75.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>📷 2022-08-01 🌿</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/52eb2d4a75.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "📷 2022-08-01 🌿\n\n<img src=\"https://podiboq.micro.blog/uploads/2022/52eb2d4a75.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-01T23:19:12+02:00",
 				"url": "https://podiboq.micro.blog/2022/08/01/231912.html",
 				"tags": ["Photos"]
@@ -96,8 +114,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2022/08/01/drinks-are-on.html",
 				
-				"content_html": "\n\n<p>📷 🍺 Drinks are on me boys and girls</p>\n\n<h2 id=\"podi-baby-2-is-on-his-way\"><strong>podi</strong><em>baby</em> #2 is on his way 🎉 🎉 🎉 !!!</h2>\n\n<p>One more penguin will soon join the family 😍. I&rsquo;m so happy !!! 😁 😄</p>\n\n<p><img src=\"uploads/2022/5aca756a5e.png\" width=\"514\" height=\"600\" alt=\"podibaby number 2\" /></p>\n",
-				"content_text": "📷 🍺 Drinks are on me boys and girls\n\n## **podi**_baby_ #2 is on his way 🎉 🎉 🎉 !!!\n\nOne more penguin will soon join the family 😍. I'm so happy !!! 😁 😄 \n\n<img src=\"uploads/2022/5aca756a5e.png\" width=\"514\" height=\"600\" alt=\"podibaby number 2\" />\n",
+				"content_html": "\n\n<p>📷 🍺 Drinks are on me boys and girls</p>\n\n<h2 id=\"podi-baby-2-is-on-his-way\"><strong>podi</strong><em>baby</em> #2 is on his way 🎉 🎉 🎉 !!!</h2>\n\n<p>One more penguin will soon join the family 😍. I&rsquo;m so happy !!! 😁 😄</p>\n\n<p><img src=\"https://podiboq.micro.blog/uploads/2022/5aca756a5e.png\" width=\"514\" height=\"600\" alt=\"podibaby number 2\" /></p>\n",
+				"content_text": "📷 🍺 Drinks are on me boys and girls\n\n## **podi**_baby_ #2 is on his way 🎉 🎉 🎉 !!!\n\nOne more penguin will soon join the family 😍. I'm so happy !!! 😁 😄 \n\n<img src=\"https://podiboq.micro.blog/uploads/2022/5aca756a5e.png\" width=\"514\" height=\"600\" alt=\"podibaby number 2\" />\n",
 				"date_published": "2022-08-01T18:42:15+02:00",
 				"url": "https://podiboq.micro.blog/2022/08/01/drinks-are-on.html",
 				"tags": ["Personal"]
