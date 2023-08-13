@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://podiboq.micro.blog/2023/08/13/182053.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/f8dc8ca6a8.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2023/f8dc8ca6a8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-08-13T18:20:53+02:00",
+				"url": "https://podiboq.micro.blog/2023/08/13/182053.html"
+			},
+			{
+				"id": "http://podiboq.micro.blog/2023/07/26/rip-sinead-oconnor.html",
+				
+				"content_html": "<p>😢 RIP Sinead O’Connor</p>\n",
+				"content_text": "😢 RIP Sinead O’Connor\n",
+				"date_published": "2023-07-26T23:00:20+02:00",
+				"url": "https://podiboq.micro.blog/2023/07/26/rip-sinead-oconnor.html"
+			},
+			{
 				"id": "http://podiboq.micro.blog/2023/07/22/father-and-son.html",
 				
 				"content_html": "<p>📷 Father and son 🥰</p>\n\n<p><img src=\"uploads/2023/85c8ce8f97.jpg\" width=\"600\" height=\"600\" alt=\"\"></p>\n",
@@ -36,8 +52,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2023/07/10/shadows.html",
 				
-				"content_html": "<p>📷 Shadows</p>\n\n<p><img src=\"uploads/2023/22b44154de.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "📷 Shadows\n\n<img src=\"uploads/2023/22b44154de.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>📷 Shadows</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/32472/2023/22b44154de.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "📷 Shadows\n\n<img src=\"https://cdn.uploads.micro.blog/32472/2023/22b44154de.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-10T14:29:18+02:00",
 				"url": "https://podiboq.micro.blog/2023/07/10/shadows.html",
 				"tags": ["Photos"]
@@ -45,8 +61,8 @@
 			{
 				"id": "http://podiboq.micro.blog/2023/07/10/the-ocean-and.html",
 				
-				"content_html": "<p>📷 The ocean and the clouds</p>\n\n<p><img src=\"uploads/2023/4555af2d7f.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "📷 The ocean and the clouds\n\n<img src=\"uploads/2023/4555af2d7f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>📷 The ocean and the clouds</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/32472/2023/4555af2d7f.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "📷 The ocean and the clouds\n\n<img src=\"https://cdn.uploads.micro.blog/32472/2023/4555af2d7f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-07-10T06:51:30+02:00",
 				"url": "https://podiboq.micro.blog/2023/07/10/the-ocean-and.html",
 				"tags": ["Photos"]
